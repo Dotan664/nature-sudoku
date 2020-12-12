@@ -545,7 +545,7 @@ input[type="password"].regInputs::-webkit-input-placeholder {
 
 /* for mobile phones: */
 
-@media (max-width: 376px) {
+@media (max-width: 415px) {
 
     .welcomeSpanC {
         text-align: center;
