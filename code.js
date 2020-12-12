@@ -219,7 +219,7 @@ registerForm.addEventListener('submit', e => {
     let validUserName = false;
     let validPassword = false;
 
-    if (userName == 'abcd') {
+    if (userName) {
 
         log('userName good - continue');
         validUserName = true;
