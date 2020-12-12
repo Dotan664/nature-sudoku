@@ -171,7 +171,7 @@ photoSelectNav.addEventListener('click', e => {
 
     e.preventDefault();
 
-    let lastClassBoardClassList = board.classList[8];
+    let lastClassBoardClassList = board.classList[9];
     board.classList.remove(lastClassBoardClassList);
 
     if (e.target == bgo1) {
