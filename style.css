@@ -134,35 +134,35 @@ input[type="password"].regInputs::-webkit-input-placeholder {
 }
 
 .bgo1C {
-    background-image: url("images/valley.jpg");
+    background-image: url("valley.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: contain;
 }
 
 .bgo2C {
-    background-image: url("images/mountains.jpg");
+    background-image: url("mountains.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: contain;
 }
 
 .bgo3C {
-    background-image: url("images/sunset.jpg");
+    background-image: url("sunset.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: contain;
 }
 
 .bgo4C {
-    background-image: url("images/waterfall.jpg");
+    background-image: url("waterfall.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: contain;
 }
 
 .bgo5C {
-    background-image: url("images/fall.jpg");
+    background-image: url("fall.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     object-fit: contain;
