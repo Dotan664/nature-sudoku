@@ -277,7 +277,7 @@ function difficultyPageFunc() {
         if (e.target.innerText == 'Easy') {
 
             status = 3;
-            levelDifficulty = 78;
+            levelDifficulty = 60;
             difficultyPage.classList.add('hide');
             main.classList.remove('hide');
             newGameFunction();
